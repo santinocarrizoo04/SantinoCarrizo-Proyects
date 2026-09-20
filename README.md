@@ -1,33 +1,51 @@
-# Projects 🚀 Santino Carrizo
+# 🚀 Projects — Santino Carrizo
 
-Welcome to my projects repository. Here you will find a collection of my work, spanning both the academic projects developed during my Information Systems Engineering degree at the National Technological University (UTN FRBA), and personal projects, primarily focused on AI Engineering.
+Welcome to my projects repository. Here you'll find a collection of my work: personal projects, and academic projects developed during my Information Systems Engineering degree at UTN FRBA (National Technological University, Buenos Aires).
+
+---
+
+## 🤖 Personal Projects
+
+I'm currently expanding my theoretical and practical knowledge in the area of AI Engineering, exploring topics such as Retrieval-Augmented Generation (RAG), LLMs and SLMs, autonomous agents, vector databases, the Model Context Protocol (MCP), and orchestration frameworks like LangChain.
 
 ---
 
-## Personal Projects
+## 🎓 Academic Projects
 
-I am currently expanding both my theoretical and practical knowledge, focusing on cutting-edge technologies and concepts such as Retrieval-Augmented Generation (RAG), LLMs & SLMs, Autonomous Agents, Vector Databases, Model Context Protocol (MCP), and orchestration frameworks like LangChain.
+### ☁️ [Software Architecture & Systems Design](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Dise%C3%B1o%20De%20Sistemas%20-%202024)
 
----
-  
-## Academic Projects
+A complete web application built on a microservices architecture, with a Telegram bot as the user interface for multi-device access.
 
-☁️ [Systems Design:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Dise%C3%B1o%20De%20Sistemas%20-%202024)
+- **Stack:** Java, Javalin, PostgreSQL, Grafana (metrics monitoring), Hibernate, Mockito, Maven.
+- **Main Concepts:** synchronous and asynchronous inter-service communication, design patterns, RESTful API exposure, Testing.
 
-Development of a complete application based on a microservices architecture. Concepts such as synchronous and asynchronous communication, design patterns, and RESTful API exposure were applied. For the user interface, I developed a Telegram bot that allows interaction with the system from any device. The backend was built in Java using the Javalin framework, with PostgreSQL databases and Grafana for metrics monitoring.
+### 🖥️ [Operating Systems](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Sistemas%20Operativos%20-%202024)
 
-🖥️​ [Operating Systems:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Sistemas%20Operativos%20-%202024)
+A distributed operating system emulator, developed collaboratively.
 
-Collaborative development (team of 5) of a distributed system. We implemented thread concurrency, synchronization mechanisms, TCP/IP socket communication, and file system management. The project was entirely programmed in C within a Linux environment (Ubuntu). My main contribution was developing the CPU and FileSystem modules, as well as participating in the overall debugging of the architecture.
+- **Stack:** C, Ubuntu Linux.
+- **Main Concepts:** thread concurrency, process synchronization primitives, low-level TCP/IP socket communication, a custom file system.
+- **Team / role:** team of 5. My core contributions were the CPU execution cycle and File System modules, plus system-wide debugging.
 
-📊 [Data Management:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Gestion%20de%20Datos%20-%202025)
+### 📊 [Database Systems](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Gestion%20de%20Datos%20-%202025)
 
-Design and implementation of a normalized relational data model. In a second phase, we developed a Data Warehouse for business metrics analysis using a Star Schema. The project included the creation of views, stored procedures, functions, and data migration (ETL) processes. The entire modeling was implemented on SQL Server.
+A normalized relational data model (OLTP) designed and implemented to satisfy the functional requirements, followed by an analytical Data Warehouse (OLAP) with a star schema for business metrics reporting.
 
-💻 [Advanced Programming Techniques:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/T%C3%A9cnicas%20Avanzadas%20de%20Programaci%C3%B3n%20-%202025)
+- **Stack:** Microsoft SQL Server.
+- **Main Concepts:** relational modeling and normalization, dimensional modeling (star schema), views, stored procedures, user-defined functions, ETL data migration.
 
-Development of two group projects focused on different programming paradigms. The first involved creating a Ruby framework applying in-depth metaprogramming concepts and mixins. In the second, we applied a hybrid paradigm (Object-Oriented and Functional) to model and solve highly complex use cases.
+### 💻 [Advanced Programming Concepts & Paradigms](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/T%C3%A9cnicas%20Avanzadas%20de%20Programaci%C3%B3n%20-%202025)
 
-🌐 [Simulation:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Simulaci%C3%B3n%20-%202025)
+Two team projects exploring advanced programming models:
 
-Analysis of large datasets using Python (Pandas, Matplotlib, and Fitter) to estimate and fit probability distribution functions. These distributions fed an event simulation model that the team developed and implemented using Google Colab.
+1. An extensible domain framework in Ruby, built with metaprogramming and mixins.
+2. A domain logic solution implemented in Scala using a hybrid Object-Oriented and Functional approach.
+
+- **Main Concepts:** metaprogramming, mixins, Object-Oriented and Functional programming paradigms
+
+### 🎲 [Modeling & Simulation](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Simulaci%C3%B3n%20-%202025)
+
+Exploratory data analysis on large datasets to fit and evaluate continuous probability distributions, which then served as the stochastic inputs of a discrete-event simulation model.
+
+- **Stack:** Python (Pandas, Matplotlib, Fitter), Google Colab.
+- **Concepts:** exploratory data analysis, probability distribution fitting, discrete-event simulation.
