@@ -1,8 +1,3 @@
-## Useful Documentation
-
-📜 [TP1 Specification: Metaprogramming & Domain Frameworks](https://docs.google.com/document/d/1G3PObK1wVGyBRuQsZQJhvsZnoFWNFJGDnFevoT9EcZA/edit?usp=sharing)  
-📜 [TP2 Specification: Hybrid Programming Paradigms](https://docs.google.com/document/d/1IMPmxqwYV4hajSQpr7kFv-oFiuqVIVJZSvQl_XdjVLU/edit?usp=sharing)
-
 ## Overview
 
 This project consists of two team assignments exploring advanced programming paradigms and techniques:
