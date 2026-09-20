@@ -1,4 +1,4 @@
-## Useful Documentation & Resources
+## Useful Documentation
 
 📋 [Project Specification](https://drive.google.com/file/d/1csjarpVGtx7BYUv-iyvWhJKoyDI5JY-7/view?usp=sharing)
 
