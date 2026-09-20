@@ -1,25 +1,33 @@
-# Proyectos 🚀 Santino Carrizo
+# Projects 🚀 Santino Carrizo
 
-Bienvenidos a mi repositorio de proyectos. Aquí encontrarán una recopilación de trabajos realizados, tanto de forma colaborativa como individual, a lo largo de mi trayectoria académica en Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN FRBA).
+Welcome to my projects repository. Here you will find a collection of my work, spanning both the academic projects developed during my Information Systems Engineering degree at the National Technological University (UTN FRBA), and personal projects, primarily focused on AI Engineering.
 
-## Proyectos Principales
+---
 
-☁️ [Diseño De Sistemas:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Dise%C3%B1o%20De%20Sistemas%20-%202024)
+## Personal Projects (AI Engineering)
 
-El proyecto se basó en el desarrollo de una aplicacion web orientada a microservicios en colaboración con tres compañeros. Se aplicaron conceptos como Web Services, APIs RESTful, comunicación sincrónica y asincrónica y patrones de diseño. Para el frontend desarrollamos un bot de Telegram utilizando su API, que permite manejar el sistema desde distintos dispositivos con la app. El trabajo fue desarrollado en Java, utilizando Javalin, bases de datos PostgreSQL y Grafana para el servicio de métricas. Mi trabajo se centralizó en el desarrollo del modulo de Colaboradores y del bot de Telegram.
+I am currently expanding both my theoretical and practical knowledge, focusing on cutting-edge technologies and concepts such as Retrieval-Augmented Generation (RAG), LLMs & SLMs, Autonomous Agents, Vector Databases, Model Context Protocol (MCP), and orchestration frameworks like LangChain.
 
-🖥️​ [Sistemas Operativos:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Sistemas%20Operativos%20-%202024)
+---
+  
+## Academic Projects (UTN FRBA)
 
-El proyecto se basó en el desarrollo de un sistema distribuido e interconectado, en colaboración con cuatro compañeros. Se aplicaron conceptos como hilos, sincronización, comunicación TCP/IP y sistema de archivos. El desarrollo fue realizado en el lenguaje C sobre una máquina virtual Ubuntu basada en Linux. Mi trabajo se centralizó en el módulo de CPU y FileSystem, y secundariamente colaboré con el desarrollo y debug de los demás modulos.
+☁️ [Systems Design:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Dise%C3%B1o%20De%20Sistemas%20-%202024)
 
-📊 [Gestion de Datos:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Gestion%20de%20Datos%20-%202025)
+Development of a complete application based on a microservices architecture. Concepts such as synchronous and asynchronous communication, design patterns, and RESTful API exposure were applied. For the user interface, I developed a Telegram bot that allows interaction with the system from any device. The backend was built in Java using the Javalin framework, with PostgreSQL databases and Grafana for metrics monitoring.
 
-El proyecto se basó en el desarrollo de un modelo de datos relacional normalizado para dar cumplimiento a una serie de requerimientos. En una segunda instancia, se solicito el desarrollo de un Data Warehouse utilizado para el analisis de metricas de negocio y el desarrollo de vistas de alto nivel sobre estas estadisticas. Se aplicaron conceptos de: Vistas, Stored Procedures, Funciones, Migracion de Datos, Data Warehouse, Star Model. El desarrollo de la aplicacion fue hecho con el motor de bases de datos SQL Server.
+🖥️​ [Operating Systems:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Sistemas%20Operativos%20-%202024)
 
-💻 [Técnicas Avanzadas de Programación:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/T%C3%A9cnicas%20Avanzadas%20de%20Programaci%C3%B3n%20-%202025)
+Collaborative development (team of 5) of a distributed system. We implemented thread concurrency, synchronization mechanisms, TCP/IP socket communication, and file system management. The project was entirely programmed in C within a Linux environment (Ubuntu). My main contribution was developing the CPU and FileSystem modules, as well as participating in the overall debugging of the architecture.
 
-En este caso realizamos dos proyectos en grupo. En el primero, implementamos un framework utilizando conceptos de metaprogramación y mixines en Ruby. Para el segundo proyecto, utilizamos los conceptos del paradigma híbrido Objetos-Funcional para dar cumplimiento a los requerimientos del enunciado.
+📊 [Data Management:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Gestion%20de%20Datos%20-%202025)
 
-🌐 [Simulación:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Simulaci%C3%B3n%20-%202025)
+Design and implementation of a normalized relational data model. In a second phase, we developed a Data Warehouse for business metrics analysis using a Star Schema. The project included the creation of views, stored procedures, functions, and data migration (ETL) processes. The entire modeling was implemented on SQL Server.
 
-Junto con mi grupo utilizamos las bibliotecas Fitter, Pandas y Matplotlib de Python para el análisis de grandes conjuntos de datos, con el objetivo de estimar y ajustar funciones de distribución de probabilidad. Posteriormente, estas distribuciones fueron empleadas como insumo en un modelo de simulación, el cual también fue desarrollado e implementado en Google Colab.
+💻 [Advanced Programming Techniques:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/T%C3%A9cnicas%20Avanzadas%20de%20Programaci%C3%B3n%20-%202025)
+
+Development of two group projects focused on different programming paradigms. The first involved creating a Ruby framework applying in-depth metaprogramming concepts and mixins. In the second, we applied a hybrid paradigm (Object-Oriented and Functional) to model and solve highly complex use cases.
+
+🌐 [Simulation:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Simulaci%C3%B3n%20-%202025)
+
+Analysis of large datasets using Python (Pandas, Matplotlib, and Fitter) to estimate and fit probability distribution functions. These distributions fed an event simulation model that the team developed and implemented using Google Colab.
