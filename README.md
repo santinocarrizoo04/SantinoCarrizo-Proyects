@@ -10,7 +10,7 @@ I am currently expanding both my theoretical and practical knowledge, focusing o
 
 ---
   
-## Academic Projects (UTN FRBA)
+## Academic Projects
 
 ☁️ [Systems Design:](https://github.com/santinocarrizoo04/Proyectos-SantinoCarrizo/tree/main/Dise%C3%B1o%20De%20Sistemas%20-%202024)
 
