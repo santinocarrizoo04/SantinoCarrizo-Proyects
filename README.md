@@ -4,7 +4,7 @@ Welcome to my projects repository. Here you will find a collection of my work, s
 
 ---
 
-## Personal Projects (AI Engineering)
+## Personal Projects
 
 I am currently expanding both my theoretical and practical knowledge, focusing on cutting-edge technologies and concepts such as Retrieval-Augmented Generation (RAG), LLMs & SLMs, Autonomous Agents, Vector Databases, Model Context Protocol (MCP), and orchestration frameworks like LangChain.
 
