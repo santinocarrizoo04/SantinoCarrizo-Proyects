@@ -4,12 +4,6 @@ Welcome to my projects repository. Here you'll find a collection of my work: per
 
 ---
 
-## 🤖 Personal Projects
-
-I'm currently expanding my theoretical and practical knowledge in the area of AI Engineering, exploring topics such as Retrieval-Augmented Generation (RAG), LLMs and SLMs, autonomous agents, vector databases, the Model Context Protocol (MCP), and orchestration frameworks like LangChain.
-
----
-
 ## 🎓 Academic Projects
 
 ### ☁️ [Software Architecture & Systems Design](https://github.com/santinocarrizoo04/SantinoCarrizo-Proyects/tree/main/Academic%20Proyects/Software%20Architecture%20%26%20Systems%20Design)
